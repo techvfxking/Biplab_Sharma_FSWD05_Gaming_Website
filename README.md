@@ -1,4 +1,14 @@
-# Biplab_Sharma_FSWD05_Gaming_Website
+# HTML CSS - Gaming Website Design
+<br/>
+
+# Live Application
+<br/>
+
+Here is the link - [Gaming Website Design](https://techvfxking.github.io/Biplab_Sharma_FSWD05_Gaming_Website/)
+<br/>
+
+# Sample Screenshots
+<br/>
 
 ![Screenshot 2023-04-02 020526](https://user-images.githubusercontent.com/63126019/229312904-1a420717-8ced-4db5-96ad-ff4815573877.png)
 ![Screenshot 2023-04-02 020516](https://user-images.githubusercontent.com/63126019/229312906-b5e6ed75-d439-497c-9210-e6885a299a22.png)
